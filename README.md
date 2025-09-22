@@ -201,8 +201,6 @@ MIT License - see LICENSE file for details.
 
 ## Security Notes
 
-- This demo disables SSL certificate verification for development purposes
-- In production, always verify server certificates
 - Keep client certificates and private keys secure
 - Rotate certificates regularly
 - Monitor for certificate expiration
